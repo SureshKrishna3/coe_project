@@ -1,0 +1,61 @@
+course_id,course_name,category,difficulty,credits,duration,description,career_tags
+CS101,Programming Fundamentals,Programming,Beginner,4,12 weeks,Introduction to programming concepts logic flow and basic syntax in Python.,Python Developer;Software Engineer;Data Analyst
+CS102,Object-Oriented Programming,Programming,Intermediate,4,12 weeks,Object-oriented design patterns polymorphism inheritance and software architecture.,Software Engineer;Python Developer;Fullstack Developer
+CS201,Python for Data Science,Python,Intermediate,3,10 weeks,Data manipulation analysis and visualization using Python NumPy and Pandas.,Data Analyst;Data Scientist;AI Engineer
+CS202,Data Structures & Algorithms,Programming,Intermediate,4,14 weeks,Arrays linked lists trees graphs search and sorting algorithms efficiency.,Software Engineer;AI Engineer;Backend Developer
+CS301,Database Management Systems,Database Management,Intermediate,3,10 weeks,Relational databases SQL normalization transaction processing and indexing.,Database Administrator;Backend Developer;Data Analyst
+CS302,Advanced SQL & Data Warehousing,Database Management,Advanced,3,10 weeks,Complex SQL queries ETL pipelines data warehousing indexing and optimization.,Database Administrator;Data Analyst;Data Scientist
+DS101,Foundations of Data Analytics,Data Analytics,Beginner,3,10 weeks,Exploratory data analysis statistical modeling and visualization tools.,Data Analyst;Business Intelligence Analyst
+DS201,Applied Machine Learning,Machine Learning,Advanced,4,14 weeks,Supervised and unsupervised learning models regression decision trees and evaluation.,Data Scientist;AI Engineer;Machine Learning Specialist
+DS301,Deep Learning & Neural Networks,AI,Advanced,4,14 weeks,Neural network architectures computer vision NLP using PyTorch and TensorFlow.,AI Engineer;Machine Learning Specialist;Data Scientist
+DS302,Natural Language Processing,AI,Advanced,3,10 weeks,Text processing transformer models sentiment analysis and LLM fundamentals.,AI Engineer;Machine Learning Specialist
+WEB101,Web Development Basics,Web Development,Beginner,3,10 weeks,HTML5 CSS3 JavaScript ES6 fundamentals and responsive layout design.,Web Developer;Fullstack Developer;Frontend Developer
+WEB201,Frontend Frameworks (React),Web Development,Intermediate,4,12 weeks,Modern React components hooks state management React Router and Tailwind CSS.,Frontend Developer;Fullstack Developer;Web Developer
+WEB301,Backend API Development,Web Development,Intermediate,4,12 weeks,RESTful APIs with Python FastAPI database integration and authentication.,Backend Developer;Fullstack Developer;Software Engineer
+WEB302,Full Stack Integration,Web Development,Advanced,4,12 weeks,End-to-end full stack architecture microservices deployment and CI/CD.,Fullstack Developer;DevOps Engineer;Software Engineer
+NET101,Computer Networking Fundamentals,Networking,Beginner,3,10 weeks,OSI model TCP/IP routing switching IP addressing and network protocols.,Network Engineer;Cybersecurity Specialist;System Administrator
+NET201,Advanced Network Infrastructure,Networking,Intermediate,4,12 weeks,VLANs WAN protocols firewalls network routing protocols and enterprise networks.,Network Engineer;Cybersecurity Specialist
+CYBER101,Cybersecurity Fundamentals,Cybersecurity,Beginner,3,10 weeks,Threat landscape cryptography network security fundamentals and risk assessment.,Cybersecurity Specialist;Network Engineer
+CYBER201,Ethical Hacking & Penetration Testing,Cybersecurity,Advanced,4,12 weeks,Vulnerability assessment vulnerability exploitation metasploit and web security.,Cybersecurity Specialist;Security Consultant
+CYBER301,Cloud Security & Governance,Cybersecurity,Advanced,3,10 weeks,Cloud compliance identity management IAM container security and auditing.,Cloud Security Specialist;Cybersecurity Specialist
+ELEC101,Circuit Theory & Electronics,Electronics,Beginner,4,12 weeks,AC/DC circuits resistors capacitors transistors op-amps and circuit simulation.,Electronics Engineer;Embedded Systems Engineer;Electrical Specialist
+ELEC201,Digital Electronics & Logic Design,Electronics,Intermediate,4,12 weeks,Boolean algebra logic gates combinational circuits sequential circuits and flip-flops.,Electronics Engineer;Embedded Systems Engineer;VLSI Engineer
+ELEC301,Microcontrollers & Embedded C,Embedded Systems,Intermediate,4,12 weeks,Microcontroller architecture GPIO interrupts timers C programming for microcontrollers.,Embedded Systems Engineer;IoT Specialist;Robotics Engineer
+EMB201,Real-Time Operating Systems (RTOS),Embedded Systems,Advanced,4,12 weeks,FreeRTOS task scheduling inter-process communication semaphores and memory management.,Embedded Systems Engineer;Robotics Engineer
+EMB301,IoT System Architecture,IoT,Intermediate,3,10 weeks,Sensors actuators MQTT WiFi/BLE protocols edge computing and cloud IoT integration.,IoT Specialist;Embedded Systems Engineer;Smart Manufacturing Specialist
+ROB101,Introduction to Robotics,Robotics,Beginner,3,10 weeks,Kinematics robot sensors actuators motor controllers and basic ROS concept.,Robotics Engineer;Automation Specialist
+ROB201,Robotic Operating System (ROS),Robotics,Advanced,4,12 weeks,ROS2 nodes topics services publishers subscribers simulation with Gazebo.,Robotics Engineer;Automation Specialist
+ROB301,Industrial Robotics & Automation,Robotics,Advanced,4,12 weeks,Articulated arm manipulation industrial PLC integration vision-guided robotics.,Robotics Engineer;Industrial Automation Engineer;PLC Engineer
+AUTO101,Programmable Logic Controllers (PLC),Automation,Intermediate,4,12 weeks,Ladder logic SCADA HMI sensors industrial relays and PLC programming.,PLC Engineer;Industrial Automation Engineer;Automation Specialist
+AUTO201,Industrial Automation & SCADA,Automation,Advanced,4,12 weeks,SCADA network protocols Modbus Industrial Ethernet sensor integration and DCS.,Industrial Automation Engineer;PLC Engineer;Automation Specialist
+CAD101,Computer-Aided Design (SolidWorks),CAD,Beginner,3,10 weeks,3D parametric modeling assemblies technical drawings and surface modeling.,CAD Design Engineer;Manufacturing Engineer;Mechanical Technician
+CAD201,Advanced CAD & Geometric Dimensioning,CAD,Intermediate,4,12 weeks,GD&T tolerance analysis FEA structural simulation and mold design.,CAD Design Engineer;Manufacturing Engineer
+MFG101,Manufacturing Processes & CNC,Manufacturing,Beginner,3,10 weeks,Machining CNC G-code milling turning additive manufacturing and metallurgy.,Manufacturing Engineer;Smart Manufacturing Specialist;CAD Design Engineer
+MFG201,Smart Manufacturing & Industry 4.0,Manufacturing,Advanced,4,12 weeks,Digital twin Industrial IoT predictive maintenance automated assembly and lean manufacturing.,Smart Manufacturing Specialist;Industrial Automation Engineer
+CLOUD101,Cloud Computing Basics,Cloud Computing,Beginner,3,10 weeks,AWS/Azure cloud architecture virtual machines storage VPCs and IAM.,Cloud Solutions Architect;DevOps Engineer;System Administrator
+CLOUD201,DevOps & Containerization,Cloud Computing,Intermediate,4,12 weeks,Docker Kubernetes CI/CD pipelines infrastructure as code Terraform.,DevOps Engineer;Cloud Solutions Architect;Backend Developer
+CLOUD301,Cloud Architecture & Microservices,Cloud Computing,Advanced,4,12 weeks,Distributed systems serverless architectures high availability and disaster recovery.,Cloud Solutions Architect;DevOps Engineer
+ELEC202,Electrical Power Systems,Electrical Systems,Intermediate,4,12 weeks,Transformers three-phase power power distribution protection relays and electrical safety.,Electrical Specialist;Industrial Automation Engineer
+ELEC302,Control Systems Engineering,Electrical Systems,Advanced,4,12 weeks,Feedback loops PID controllers transfer functions root locus and stability analysis.,Control Systems Engineer;Automation Specialist;Robotics Engineer
+CS203,Linux System Administration,Networking,Beginner,3,10 weeks,Linux shell bash scripting user management file permissions and system services.,System Administrator;DevOps Engineer;Backend Developer
+DS202,Data Visualization & BI Tools,Data Analytics,Intermediate,3,10 weeks,PowerBI Tableau dashboard design storytelling with data and SQL integration.,Data Analyst;Business Intelligence Analyst
+DS203,Statistical Methods for Data Science,Data Analytics,Intermediate,3,10 weeks,Hypothesis testing probability distributions A/B testing and inferential statistics.,Data Scientist;Data Analyst
+WEB202,UI/UX Design Systems,Web Development,Beginner,3,10 weeks,User research Figma prototyping accessibility design systems and usability testing.,Frontend Developer;UI/UX Designer;Web Developer
+CYBER202,Digital Forensics & Incident Response,Cybersecurity,Advanced,3,10 weeks,Memory analysis log analysis disk forensics incident response frameworks.,Cybersecurity Specialist;Security Consultant
+ELEC102,PCB Design & Fabrication,Electronics,Intermediate,3,10 weeks,Altium Designer KiCad schematic capture PCB routing assembly and soldering.,Electronics Engineer;Hardware Engineer;Embedded Systems Engineer
+EMB101,Sensor Technology & Interfacing,Embedded Systems,Beginner,3,10 weeks,Analog/digital sensors ADC I2C SPI protocols signal conditioning and calibration.,Embedded Systems Engineer;IoT Specialist
+ROB202,Autonomous Mobile Robots (AMR),Robotics,Advanced,4,12 weeks,SLAM path planning LiDAR sensor fusion navigation stack and autonomous driving.,Robotics Engineer;AI Engineer
+AUTO102,Pneumatics & Hydraulics,Automation,Beginner,3,10 weeks,Fluid power systems valves cylinders electro-pneumatic controls and maintenance.,PLC Engineer;Automation Specialist;Industrial Technician
+CAD102,Electrical CAD & Schematic Design,CAD,Beginner,3,10 weeks,AutoCAD Electrical panel layout wiring diagrams schematic symbols and BOM generation.,Electrical Specialist;CAD Design Engineer;PLC Engineer
+MFG102,Quality Control & Metrology,Manufacturing,Beginner,3,10 weeks,CMM inspection statistical process control SPC ISO standards and quality assurance.,Quality Engineer;Manufacturing Engineer
+CLOUD202,Serverless Application Development,Cloud Computing,Intermediate,3,10 weeks,AWS Lambda DynamoDB API Gateway event-driven architecture and cloud native patterns.,Backend Developer;Cloud Solutions Architect
+CYBER102,Network Security & Firewalls,Cybersecurity,Intermediate,3,10 weeks,Palo Alto Cisco firewalls IDS/IPS VPNs and perimeter defense strategies.,Network Engineer;Cybersecurity Specialist
+DS102,Excel & SQL for Business Analytics,Data Analytics,Beginner,3,10 weeks,Advanced Excel pivot tables SQL aggregations window functions and reporting.,Data Analyst;Business Intelligence Analyst
+ELEC303,VLSI Design & Verilog,Electronics,Advanced,4,12 weeks,Verilog HDL FPGA synthesis CMOS digital design logic simulation and timing analysis.,VLSI Engineer;Electronics Engineer
+CS303,Object-Oriented Systems Architecture,Software Architecture,Advanced,4,12 weeks,Design patterns clean code software modeling microservices and domain-driven design.,Software Engineer;Fullstack Developer
+CS204,Git & Collaborative Software Development,Software Engineering,Beginner,2,6 weeks,Git branching strategies pull requests code reviews and GitHub/GitLab workflows.,Software Engineer;Fullstack Developer;DevOps Engineer
+CS103,Discrete Mathematics for Computer Science,Computer Science,Beginner,3,10 weeks,Set theory logic graph theory combinatorics and proof techniques.,Software Engineer;Data Scientist;AI Engineer
+CS205,Operating Systems Concepts,Computer Science,Intermediate,4,12 weeks,Processes threads memory management virtual memory file systems and concurrency.,Software Engineer;System Administrator;Backend Developer
+WEB102,Responsive Web Design & CSS Architecture,Web Development,Beginner,2,8 weeks,CSS Flexbox Grid Tailwind CSS responsive design mobile-first web principles.,Frontend Developer;Web Developer
+DS303,Time Series Analysis & Forecasting,Data Analytics,Advanced,3,10 weeks,ARIMA Prophet LSTM models financial forecasting and trend analysis.,Data Scientist;Data Analyst
+ROB102,Sensors & Perception for Automation,Robotics,Intermediate,3,10 weeks,Computer vision OpenCV camera calibration depth sensors and object detection.,Robotics Engineer;AI Engineer

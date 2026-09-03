@@ -1,0 +1,86 @@
+course_id,day,start_time,end_time,location
+CS101,Monday,09:00,11:00,Lab 101 - IT Block
+CS101,Wednesday,09:00,11:00,Lab 101 - IT Block
+CS102,Monday,10:00,12:00,Lab 102 - IT Block
+CS102,Thursday,10:00,12:00,Lab 102 - IT Block
+CS201,Tuesday,09:00,11:00,Data Lab 1
+CS201,Thursday,09:00,11:00,Data Lab 1
+CS202,Monday,14:00,16:00,Lecture Hall A
+CS202,Friday,14:00,16:00,Lecture Hall A
+CS301,Wednesday,11:00,13:00,Database Lab
+CS301,Friday,11:00,13:00,Database Lab
+CS302,Tuesday,14:00,16:00,Database Lab
+CS302,Thursday,14:00,16:00,Database Lab
+DS101,Monday,11:00,13:00,Analytics Studio
+DS101,Wednesday,11:00,13:00,Analytics Studio
+DS201,Tuesday,10:00,12:00,AI Research Center
+DS201,Thursday,10:00,12:00,AI Research Center
+DS301,Monday,10:00,12:00,GPU Cluster Lab
+DS301,Wednesday,10:00,12:00,GPU Cluster Lab
+DS302,Friday,09:00,12:00,AI Research Center
+WEB101,Monday,09:00,11:00,Web Studio 1
+WEB101,Thursday,09:00,11:00,Web Studio 1
+WEB201,Tuesday,11:00,13:00,Web Studio 2
+WEB201,Thursday,11:00,13:00,Web Studio 2
+WEB301,Monday,14:00,16:00,Cloud Lab
+WEB301,Wednesday,14:00,16:00,Cloud Lab
+WEB302,Friday,10:00,13:00,Innovation Hub
+NET101,Tuesday,09:00,11:00,Cisco Network Lab
+NET101,Friday,09:00,11:00,Cisco Network Lab
+NET201,Wednesday,14:00,16:00,Cisco Network Lab
+CYBER101,Monday,14:00,16:00,Security Operations Lab
+CYBER101,Thursday,14:00,16:00,Security Operations Lab
+CYBER201,Tuesday,14:00,16:00,Security Operations Lab
+CYBER201,Friday,14:00,16:00,Security Operations Lab
+CYBER301,Wednesday,10:00,12:00,Cloud Security Lab
+ELEC101,Monday,08:30,10:30,Electronics Workbench 1
+ELEC101,Wednesday,08:30,10:30,Electronics Workbench 1
+ELEC201,Tuesday,10:00,12:00,Digital Electronics Lab
+ELEC201,Thursday,10:00,12:00,Digital Electronics Lab
+ELEC301,Monday,11:00,13:00,Embedded Systems Studio
+ELEC301,Wednesday,11:00,13:00,Embedded Systems Studio
+EMB201,Tuesday,14:00,16:00,Embedded Systems Studio
+EMB301,Thursday,14:00,16:00,IoT Hardware Studio
+ROB101,Monday,10:00,12:00,Robotics Arena
+ROB101,Wednesday,10:00,12:00,Robotics Arena
+ROB201,Tuesday,09:00,11:00,ROS Simulation Lab
+ROB201,Thursday,09:00,11:00,ROS Simulation Lab
+ROB301,Friday,13:00,16:00,Industrial Robotics Bay
+AUTO101,Tuesday,11:00,13:00,PLC Automation Cell
+AUTO101,Thursday,11:00,13:00,PLC Automation Cell
+AUTO201,Wednesday,14:00,16:00,SCADA Control Room
+CAD101,Monday,11:00,13:00,CAD Computer Suite
+CAD101,Wednesday,11:00,13:00,CAD Computer Suite
+CAD201,Tuesday,14:00,16:00,CAD Computer Suite
+MFG101,Tuesday,09:00,11:00,CNC Machine Workshop
+MFG101,Thursday,09:00,11:00,CNC Machine Workshop
+MFG201,Friday,10:00,13:00,Smart Factory Demo Center
+CLOUD101,Monday,14:00,16:00,Cloud Computing Lab
+CLOUD101,Wednesday,14:00,16:00,Cloud Computing Lab
+CLOUD201,Tuesday,11:00,13:00,DevOps Lab
+CLOUD201,Thursday,11:00,13:00,DevOps Lab
+CLOUD301,Friday,14:00,16:00,Cloud Architecture Lab
+ELEC202,Monday,14:00,16:00,Power Systems Lab
+ELEC302,Wednesday,09:00,11:00,Control Systems Lab
+CS203,Monday,13:00,15:00,Linux Server Room
+DS202,Thursday,14:00,16:00,BI Analytics Lab
+DS203,Tuesday,13:00,15:00,Statistics Lab
+WEB202,Friday,09:00,11:00,UX Design Studio
+CYBER202,Wednesday,11:00,13:00,Forensics Lab
+ELEC102,Thursday,14:00,16:00,PCB Fabrication Room
+EMB101,Tuesday,08:30,10:30,Sensors Lab
+ROB202,Monday,14:00,16:00,Autonomous Vehicle Arena
+AUTO102,Friday,11:00,13:00,Fluid Power Workshop
+CAD102,Wednesday,14:00,16:00,Electrical Design Lab
+MFG102,Thursday,10:00,12:00,Metrology Lab
+CLOUD202,Tuesday,14:00,16:00,Serverless Lab
+CYBER102,Monday,11:00,13:00,Perimeter Defense Lab
+DS102,Wednesday,09:00,11:00,Business Analytics Suite
+ELEC303,Friday,10:00,12:00,VLSI Clean Room
+CS303,Thursday,11:00,13:00,Architecture Seminar Room
+CS204,Monday,16:00,18:00,Dev Studio 3
+CS103,Tuesday,15:00,17:00,Lecture Hall B
+CS205,Wednesday,15:00,17:00,Lecture Hall C
+WEB102,Thursday,16:00,18:00,Web Studio 1
+DS303,Friday,15:00,17:00,Analytics Studio
+ROB102,Tuesday,16:00,18:00,Vision Lab

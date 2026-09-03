@@ -1,0 +1,65 @@
+outcome_id,course_id,outcome_description,skill_tags
+O101_1,CS101,Build Python scripts using control structures functions and file I/O.,Python;Programming;Problem Solving
+O101_2,CS101,Debug code errors and understand algorithmic thinking basics.,Debugging;Algorithmic Logic
+O102_1,CS102,Apply object-oriented principles including classes inheritance and encapsulation.,OOP;Design Patterns;Java/Python
+O201_1,CS201,Process clean and analyze structured datasets using Pandas and NumPy.,Data Analysis;Pandas;NumPy;Python
+O201_2,CS201,Create informative data plots and visual dashboards with Matplotlib/Seaborn.,Data Visualization;Plotting
+O202_1,CS202,Implement core data structures like stacks queues binary trees and hash maps.,Data Structures;Algorithms;Complexity Analysis
+O301_1,CS301,Design normalized relational database schemas and write complex SQL queries.,SQL;Database Design;Relational Data
+O302_1,CS302,Build data warehouse schemas star/snowflake and write analytical ETL queries.,Data Warehousing;ETL;Advanced SQL
+O_DS101_1,DS101,Perform exploratory data analysis and infer business metrics from raw data.,Data Analytics;EDA;Business Intelligence
+O_DS201_1,DS201,Train evaluate and tune supervised ML models (Regression Classification SVM Random Forest).,Machine Learning;Scikit-Learn;Model Tuning
+O_DS201_2,DS201,Apply clustering algorithms and dimensionality reduction (PCA K-Means).,Unsupervised Learning;Clustering
+O_DS301_1,DS301,Construct deep convolutional and recurrent neural networks using PyTorch/TensorFlow.,Deep Learning;PyTorch;Neural Networks
+O_DS301_2,DS301,Deploy deep learning computer vision and image classification models.,Computer Vision;Model Deployment
+O_DS302_1,DS302,Build NLP pipelines text tokenization sentiment classifiers and fine-tune Transformers.,NLP;Transformers;LLM
+O_WEB101_1,WEB101,Construct semantic responsive web pages using HTML5 CSS3 and JavaScript.,HTML/CSS;JavaScript;Web Layouts
+O_WEB201_1,WEB201,Develop interactive component-driven user interfaces using React hooks and state.,React.js;State Management;Frontend Development
+O_WEB301_1,WEB301,Build production-ready RESTful APIs with Python FastAPI database integration and authentication.,FastAPI;REST APIs;Python Backend
+O_WEB302_1,WEB302,Architect and deploy end-to-end full stack web applications with Docker CI/CD.,Full Stack Architecture;Microservices;CI/CD
+O_NET101_1,NET101,Configure local network subnets analyze IP packets and troubleshoot TCP/IP connections.,Networking;TCP/IP;Subnetting
+O_NET201_1,NET201,Design enterprise network topologies configure VLANs dynamic routing and firewalls.,Network Architecture;VLAN;Routing Protocols
+O_CYBER101_1,CYBER101,Identify cyber vulnerabilities evaluate security risks and implement defense controls.,Cybersecurity;Risk Assessment;Information Security
+O_CYBER201_1,CYBER201,Execute penetration tests identify web application vulnerabilities and draft remediation reports.,Penetration Testing;Ethical Hacking;Web Security
+O_CYBER301_1,CYBER301,Manage cloud security compliance IAM permissions container security and audit trails.,Cloud Security;IAM;Compliance
+O_ELEC101_1,ELEC101,Analyze analog AC/DC circuits perform circuit simulation and test physical breadboards.,Circuit Design;Analog Electronics;Multisim
+O_ELEC201_1,ELEC201,Design digital logic circuits combine flip-flops registers and logic gate arrays.,Digital Electronics;Logic Design;Sequential Circuits
+O_ELEC301_1,ELEC301,Write Embedded C code to control microcontroller GPIOs interrupts timers and ADC units.,Embedded C;Microcontrollers;STM32/Arduino
+O_EMB201_1,EMB201,Build real-time embedded applications with FreeRTOS multitasking and mutex lock mechanisms.,FreeRTOS;RTOS;Multithreading
+O_EMB301_1,EMB301,Architect IoT sensor nodes transmit telemetry over MQTT/HTTP to cloud dashboards.,IoT Systems;MQTT;Wireless Protocols
+O_ROB101_1,ROB101,Model robot kinematics select actuators motor drivers and program basic motion controllers.,Robotics Basics;Kinematics;Motor Control
+O_ROB201_1,ROB201,Develop ROS2 packages publish/subscribe to sensor topics and simulate robots in Gazebo.,ROS2;Gazebo Simulation;Robot Middleware
+O_ROB301_1,ROB301,Program industrial articulated robot arms integrate vision inspection with PLC systems.,Industrial Robotics;Robotic Arms;PLC Integration
+O_AUTO101_1,AUTO101,Write PLC ladder logic programs interface proximity sensors and HMI touch panels.,PLC Programming;Ladder Logic;HMI
+O_AUTO201_1,AUTO201,Deploy industrial SCADA networks Modbus protocol monitoring and distributed control systems.,SCADA;Modbus;Industrial Automation
+O_CAD101_1,CAD101,Create 3D parametric mechanical models assemblies and detailed 2D engineering drawings.,SolidWorks;3D Modeling;CAD Design
+O_CAD201_1,CAD201,Apply GD&T standards run FEA structural stress simulation and optimize mechanical parts.,GD&T;FEA Simulation;Mechanical Design
+O_MFG101_1,MFG101,Write CNC G-code programs operate milling/turning centers and understand additive manufacturing.,CNC Programming;Machining;Manufacturing
+O_MFG201_1,MFG201,Implement Industry 4.0 digital twin architecture predictive maintenance and automated manufacturing.,Industry 4.0;Smart Manufacturing;Digital Twin
+O_CLOUD101_1,CLOUD101,Provision cloud VMs storage buckets VPC subnets and security groups on AWS/Azure.,Cloud Architecture;AWS/Azure;VPC
+O_CLOUD201_1,CLOUD201,Containerize applications with Docker write Kubernetes manifests and automate CI/CD pipelines.,Docker;Kubernetes;DevOps;CI/CD
+O_CLOUD301_1,CLOUD301,Architect fault-tolerant microservice architectures with load balancers and auto-scaling.,Cloud Architecture;Microservices;High Availability
+O_ELEC202_1,ELEC202,Calculate three-phase power loads inspect transformers and test electrical safety relays.,Electrical Power;Transformers;High Voltage Safety
+O_ELEC302_1,ELEC302,Design PID controllers analyze system stability using root locus and Bode plot frequency response.,Control Systems;PID Tuning;Transfer Functions
+O_CS203_1,CS203,Administer Linux servers write Bash scripts configure SSH web servers and system services.,Linux Admin;Bash Scripting;Server Management
+O_DS202_1,DS202,Build dynamic business intelligence dashboards interactive visual cards using PowerBI and Tableau.,PowerBI;Tableau;Data Storytelling
+O_DS203_1,DS203,Conduct hypothesis testing ANOVA A/B testing and calculate confidence intervals.,Statistics;Hypothesis Testing;Probability
+O_WEB202_1,WEB202,Conduct user experience research wireframing usability testing and component design systems.,UI/UX;Wireframing;Figma
+O_CYBER202_1,CYBER202,Extract disk/memory forensic images analyze malware behavior and lead incident response.,Digital Forensics;Incident Response;Memory Analysis
+O_ELEC102_1,ELEC102,Layout multi-layer PCBs in KiCad/Altium generate Gerber files and solder Surface Mount Components.,PCB Design;KiCad;Soldering
+O_EMB101_1,EMB101,Interface analog/digital sensors via I2C SPI UART protocols with signal conditioning.,Sensors;I2C;SPI;Signal Conditioning
+O_ROB202_1,ROB202,Implement SLAM algorithm sensor fusion with LiDAR and autonomous path planning for AMRs.,SLAM;LiDAR;Autonomous Navigation
+O_AUTO102_1,AUTO102,Design electro-pneumatic and hydraulic circuits calculate valve pressure and cylinder force.,Pneumatics;Hydraulics;Fluid Power
+O_CAD102_1,CAD102,Draw electrical panel layouts single-line diagrams and generate automated BOM parts lists.,AutoCAD Electrical;Wiring Diagrams;BOM
+O_MFG102_1,MFG102,Operate Coordinate Measuring Machines (CMM) calculate SPC control charts and ISO quality audits.,Quality Control;Metrology;SPC
+O_CLOUD202_1,CLOUD202,Deploy serverless lambdas DynamoDB tables and event-driven serverless architectures.,Serverless;AWS Lambda;Event-Driven Architecture
+O_CYBER102_1,CYBER102,Configure hardware firewalls IDS/IPS intrusion rules and IPsec VPN tunnels.,Firewalls;VPN;IDS/IPS
+O_DS102_1,DS102,Build complex financial Excel models pivot tables and write multi-table SQL queries.,Excel;SQL;Business Reporting
+O_ELEC303_1,ELEC303,Synthesize digital logic circuits using Verilog HDL simulate timing on FPGA dev boards.,Verilog;FPGA;VLSI
+O_CS303_1,CS303,Apply enterprise software architectural patterns domain-driven design and microservices.,Software Architecture;Design Patterns;Domain-Driven Design
+O_CS204_1,CS204,Manage git repositories branch workflows rebasing pull request reviews and merge conflicts.,Git;GitHub;Version Control
+O_CS103_1,CS103,Apply discrete math predicate logic boolean algebra and graph theory to CS problems.,Discrete Math;Logic;Graph Theory
+O_CS205_1,CS205,Understand process scheduling virtual memory page replacement and file system internals.,Operating Systems;Kernel;Memory Management
+O_WEB102_1,WEB102,Implement mobile-first responsive web design with CSS Flexbox Grid and utility classes.,CSS Grid;Flexbox;Responsive Design
+O_DS303_1,DS303,Model time series data calculate moving averages and deploy ARIMA/LSTM forecasting models.,Time Series;ARIMA;Forecasting
+O_ROB102_1,ROB102,Implement computer vision algorithms for robotic object detection color filtering and tracking.,Computer Vision;OpenCV;Object Tracking

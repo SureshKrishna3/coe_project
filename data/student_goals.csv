@@ -1,0 +1,251 @@
+student_id,career_goal,priority_weight
+STU001,Embedded Systems Engineer,Medium
+STU002,Frontend Developer,Medium
+STU003,Backend Developer,High
+STU004,Embedded Systems Engineer,High
+STU005,Cybersecurity Specialist,Medium
+STU006,Frontend Developer,Critical
+STU007,IoT Specialist,Critical
+STU008,DevOps Engineer,High
+STU009,Cloud Solutions Architect,Medium
+STU010,Backend Developer,Critical
+STU011,IoT Specialist,Critical
+STU012,Frontend Developer,Critical
+STU013,Data Scientist,High
+STU014,CAD Design Engineer,High
+STU015,DevOps Engineer,Medium
+STU016,PLC Engineer,High
+STU017,VLSI Engineer,Critical
+STU018,Data Analyst,High
+STU019,Smart Manufacturing Specialist,Critical
+STU020,Fullstack Developer,High
+STU021,Software Engineer,High
+STU022,Data Scientist,High
+STU023,Fullstack Developer,High
+STU024,Cybersecurity Specialist,High
+STU025,IoT Specialist,High
+STU026,IoT Specialist,Medium
+STU027,Robotics Engineer,Medium
+STU028,CAD Design Engineer,High
+STU029,Data Analyst,Critical
+STU030,Fullstack Developer,High
+STU031,Robotics Engineer,Medium
+STU032,Frontend Developer,High
+STU033,Cloud Solutions Architect,Critical
+STU034,Cloud Solutions Architect,Medium
+STU035,Cloud Solutions Architect,High
+STU036,Fullstack Developer,High
+STU037,PLC Engineer,Critical
+STU038,Smart Manufacturing Specialist,High
+STU039,Embedded Systems Engineer,Medium
+STU040,Embedded Systems Engineer,High
+STU041,CAD Design Engineer,Critical
+STU042,Robotics Engineer,High
+STU043,CAD Design Engineer,Critical
+STU044,Cybersecurity Specialist,High
+STU045,Backend Developer,Medium
+STU046,DevOps Engineer,High
+STU047,Robotics Engineer,Medium
+STU048,Data Analyst,Medium
+STU049,Backend Developer,High
+STU050,Software Engineer,Medium
+STU051,DevOps Engineer,Critical
+STU052,Robotics Engineer,Medium
+STU053,Robotics Engineer,Medium
+STU054,CAD Design Engineer,Medium
+STU055,PLC Engineer,High
+STU056,Data Analyst,Medium
+STU057,Smart Manufacturing Specialist,Medium
+STU058,Embedded Systems Engineer,Medium
+STU059,Cybersecurity Specialist,Critical
+STU060,Industrial Automation Engineer,High
+STU061,Fullstack Developer,Medium
+STU062,PLC Engineer,High
+STU063,VLSI Engineer,High
+STU064,PLC Engineer,Critical
+STU065,DevOps Engineer,High
+STU066,Data Scientist,High
+STU067,Embedded Systems Engineer,Medium
+STU068,IoT Specialist,Critical
+STU069,Smart Manufacturing Specialist,Critical
+STU070,DevOps Engineer,Critical
+STU071,Software Engineer,High
+STU072,Embedded Systems Engineer,High
+STU073,Cloud Solutions Architect,Medium
+STU074,Software Engineer,Medium
+STU075,Industrial Automation Engineer,Critical
+STU076,DevOps Engineer,High
+STU077,Cloud Solutions Architect,Medium
+STU078,AI Engineer,Medium
+STU079,AI Engineer,Medium
+STU080,Cybersecurity Specialist,Medium
+STU081,Smart Manufacturing Specialist,High
+STU082,Fullstack Developer,Medium
+STU083,Robotics Engineer,Critical
+STU084,Frontend Developer,Critical
+STU085,Industrial Automation Engineer,Medium
+STU086,IoT Specialist,Medium
+STU087,Smart Manufacturing Specialist,High
+STU088,Software Engineer,Medium
+STU089,Cybersecurity Specialist,Medium
+STU090,Backend Developer,High
+STU091,DevOps Engineer,Medium
+STU092,IoT Specialist,Critical
+STU093,Cloud Solutions Architect,Critical
+STU094,Fullstack Developer,Medium
+STU095,Embedded Systems Engineer,High
+STU096,CAD Design Engineer,Medium
+STU097,Frontend Developer,Medium
+STU098,Cloud Solutions Architect,Medium
+STU099,DevOps Engineer,Critical
+STU100,Fullstack Developer,Critical
+STU101,DevOps Engineer,High
+STU102,VLSI Engineer,High
+STU103,IoT Specialist,High
+STU104,Cybersecurity Specialist,Critical
+STU105,Cloud Solutions Architect,High
+STU106,Cybersecurity Specialist,High
+STU107,Data Scientist,Medium
+STU108,PLC Engineer,Medium
+STU109,IoT Specialist,High
+STU110,Cloud Solutions Architect,High
+STU111,DevOps Engineer,Critical
+STU112,Data Scientist,Medium
+STU113,Frontend Developer,Medium
+STU114,Robotics Engineer,Critical
+STU115,Cybersecurity Specialist,High
+STU116,Fullstack Developer,Medium
+STU117,PLC Engineer,Medium
+STU118,Frontend Developer,Medium
+STU119,Embedded Systems Engineer,Medium
+STU120,VLSI Engineer,Critical
+STU121,Data Scientist,Critical
+STU122,DevOps Engineer,Critical
+STU123,PLC Engineer,Medium
+STU124,AI Engineer,High
+STU125,Industrial Automation Engineer,High
+STU126,Frontend Developer,Medium
+STU127,VLSI Engineer,Medium
+STU128,Data Scientist,Critical
+STU129,Industrial Automation Engineer,High
+STU130,Embedded Systems Engineer,Critical
+STU131,Data Scientist,Medium
+STU132,Smart Manufacturing Specialist,Medium
+STU133,PLC Engineer,High
+STU134,Data Analyst,High
+STU135,AI Engineer,Critical
+STU136,DevOps Engineer,Critical
+STU137,Fullstack Developer,High
+STU138,IoT Specialist,Critical
+STU139,Fullstack Developer,Critical
+STU140,AI Engineer,Medium
+STU141,Cybersecurity Specialist,Critical
+STU142,AI Engineer,Critical
+STU143,Embedded Systems Engineer,High
+STU144,Robotics Engineer,Critical
+STU145,Industrial Automation Engineer,High
+STU146,Cloud Solutions Architect,Medium
+STU147,PLC Engineer,High
+STU148,Data Analyst,Medium
+STU149,Cloud Solutions Architect,High
+STU150,PLC Engineer,Medium
+STU151,IoT Specialist,Critical
+STU152,Backend Developer,Critical
+STU153,Fullstack Developer,Critical
+STU154,Data Scientist,Medium
+STU155,Smart Manufacturing Specialist,Medium
+STU156,DevOps Engineer,High
+STU157,Backend Developer,High
+STU158,Backend Developer,High
+STU159,Robotics Engineer,Critical
+STU160,Backend Developer,Medium
+STU161,VLSI Engineer,Medium
+STU162,DevOps Engineer,Critical
+STU163,Fullstack Developer,Medium
+STU164,Fullstack Developer,High
+STU165,Smart Manufacturing Specialist,Medium
+STU166,IoT Specialist,High
+STU167,Robotics Engineer,High
+STU168,Data Analyst,High
+STU169,Software Engineer,Critical
+STU170,Backend Developer,Critical
+STU171,Robotics Engineer,Medium
+STU172,CAD Design Engineer,Critical
+STU173,AI Engineer,Medium
+STU174,Smart Manufacturing Specialist,Critical
+STU175,Cybersecurity Specialist,High
+STU176,AI Engineer,Medium
+STU177,Data Analyst,High
+STU178,PLC Engineer,High
+STU179,Smart Manufacturing Specialist,High
+STU180,Robotics Engineer,Medium
+STU181,VLSI Engineer,Critical
+STU182,Smart Manufacturing Specialist,High
+STU183,Fullstack Developer,High
+STU184,IoT Specialist,Medium
+STU185,Cybersecurity Specialist,High
+STU186,Frontend Developer,High
+STU187,Data Scientist,Medium
+STU188,Embedded Systems Engineer,Critical
+STU189,VLSI Engineer,Medium
+STU190,Industrial Automation Engineer,High
+STU191,IoT Specialist,High
+STU192,AI Engineer,Critical
+STU193,Industrial Automation Engineer,Medium
+STU194,Industrial Automation Engineer,High
+STU195,CAD Design Engineer,High
+STU196,Data Analyst,Medium
+STU197,Cybersecurity Specialist,Critical
+STU198,IoT Specialist,Medium
+STU199,VLSI Engineer,Medium
+STU200,Frontend Developer,Medium
+STU201,Backend Developer,Medium
+STU202,Cybersecurity Specialist,Medium
+STU203,Frontend Developer,Medium
+STU204,DevOps Engineer,Critical
+STU205,VLSI Engineer,Medium
+STU206,Cybersecurity Specialist,High
+STU207,Embedded Systems Engineer,Critical
+STU208,AI Engineer,High
+STU209,Industrial Automation Engineer,Medium
+STU210,Frontend Developer,Critical
+STU211,Embedded Systems Engineer,High
+STU212,IoT Specialist,Medium
+STU213,PLC Engineer,Medium
+STU214,VLSI Engineer,High
+STU215,Data Analyst,Critical
+STU216,Data Scientist,Medium
+STU217,PLC Engineer,Critical
+STU218,Industrial Automation Engineer,Critical
+STU219,Cloud Solutions Architect,Critical
+STU220,Data Scientist,Medium
+STU221,AI Engineer,Medium
+STU222,Embedded Systems Engineer,High
+STU223,Software Engineer,Medium
+STU224,Software Engineer,Medium
+STU225,PLC Engineer,Medium
+STU226,DevOps Engineer,Critical
+STU227,Smart Manufacturing Specialist,High
+STU228,Backend Developer,High
+STU229,DevOps Engineer,Critical
+STU230,VLSI Engineer,High
+STU231,IoT Specialist,Medium
+STU232,Embedded Systems Engineer,Critical
+STU233,Data Scientist,High
+STU234,Fullstack Developer,Medium
+STU235,Fullstack Developer,Critical
+STU236,Industrial Automation Engineer,Critical
+STU237,Cloud Solutions Architect,Medium
+STU238,Industrial Automation Engineer,Critical
+STU239,Cloud Solutions Architect,High
+STU240,Backend Developer,Medium
+STU241,Robotics Engineer,Medium
+STU242,Frontend Developer,Medium
+STU243,Smart Manufacturing Specialist,High
+STU244,VLSI Engineer,Critical
+STU245,Data Analyst,Medium
+STU246,IoT Specialist,Critical
+STU247,Robotics Engineer,High
+STU248,VLSI Engineer,Critical
+STU249,Industrial Automation Engineer,High
+STU250,VLSI Engineer,Critical

@@ -1,0 +1,10 @@
+{
+  "name": "vocational-elective-explorer-root",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Unified single-command launcher for Vocational Elective Explorer",
+  "scripts": {
+    "start": "python run.py",
+    "test": "pytest backend/tests"
+  }
+}
